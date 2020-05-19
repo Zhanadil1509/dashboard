@@ -40,8 +40,6 @@ const Create = () => {
         </Link>
         <Link to={'/'} className={'default-button'}>Отмена</Link>
       </div>
-      <br/><br/><br/>
-
     </div>
   );
 };
